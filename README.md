@@ -2,6 +2,9 @@
 
 This project provides tools and techniques for extracting and visualizing stock data using Python. It utilizes popular libraries to fetch data, perform analysis, and create insightful visualizations.
 
+![image](https://github.com/user-attachments/assets/028c6fff-92f5-4728-9183-f8522e8a8f5e)
+
+
 ## Tools
 
 - Python, yfinance, BeautifulSoup, Pandas, Matplotlib.
